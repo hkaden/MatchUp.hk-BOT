@@ -1,5 +1,6 @@
 <?php
-include 'libs/phpQuery/phpQuery.php';
+require 'vendor/autoload.php';
+use QL\QueryList;
 
 try {
 $pq = phpQuery::newDocumentFile('https://matchup.hk/event.php');
