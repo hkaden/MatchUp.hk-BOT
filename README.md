@@ -8,3 +8,4 @@ Auto join event in matchup.hk
 
 ## Credits
 - [phpQuery](https://github.com/TobiaszCudnik/phpquery)
+- [QueryList](http://doc.querylist.cc/)
